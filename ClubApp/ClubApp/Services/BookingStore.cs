@@ -18,35 +18,35 @@ namespace ClubApp.Services
             _apiBaseUrl = App.AzureBackendUrl;
             _BookingRelativeUrlTemplate = "api/booking";
         }
-        public  async System.Threading.Tasks.Task GetAssetsAsync(dynamic query)
-        {
-            try
-            {
+        //public  async System.Threading.Tasks.Task GetAssetsAsync(dynamic query)
+        //{
+        //    try
+        //    {
 
-                var relativeUrl = _apiBaseUrl.AppendPathSegment("api/bookings").SetQueryParam(nameof(query.SiteFilter), query.SiteFilter.Value);
+        //        var relativeUrl = _apiBaseUrl.AppendPathSegment("api/bookings").SetQueryParam(nameof(query.SiteFilter), query.SiteFilter.Value);
 
-                if (query.AssetCategoryFilter != null && query.SiteFilter != null)
-                {
-                    relativeUrl = relativeUrl
-                        .SetQueryParam(nameof(query.SiteFilter), query.SiteFilter.Value)
-                        .SetQueryParam(nameof(query.AssetCategoryFilter), query.AssetCategoryFilter.Value);
+        //        if (query.AssetCategoryFilter != null && query.SiteFilter != null)
+        //        {
+        //            relativeUrl = relativeUrl
+        //                .SetQueryParam(nameof(query.SiteFilter), query.SiteFilter.Value)
+        //                .SetQueryParam(nameof(query.AssetCategoryFilter), query.AssetCategoryFilter.Value);
 
-                }
-                var header = new AuthenticationHeaderValue(
-                "Bearer", Settings.AccessToken);
-                var response = await relativeUrl
-                        .WithHeader("Authorization", header)
-                        .GetAsync()
-                        .ReceiveJson<List<dynamic>>();
+        //        }
+        //        var header = new AuthenticationHeaderValue(
+        //        "Bearer", Settings.AccessToken);
+        //        var response = await relativeUrl
+        //                .WithHeader("Authorization", header)
+        //                .GetAsync()
+        //                .ReceiveJson<List<dynamic>>();
 
-               // return response;
-            }
-            catch (FlurlHttpException fex)
-            {
-                var errorText = await fex.GetResponseStringAsync();
-                Debug.WriteLine(errorText); 
-            }
-        }
+        //       // return response;
+        //    }
+        //    catch (FlurlHttpException fex)
+        //    {
+        //        var errorText = await fex.GetResponseStringAsync();
+        //        Debug.WriteLine(errorText); 
+        //    }
+        //}
 
         void IBookingStore.GetAssetsAsync(dynamic query)
         {
