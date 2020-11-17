@@ -1246,11 +1246,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ClubApp\\ClubApp\\ClubApp\\ClubApp.csproj",
+      "projectUniqueName": "E:\\Git_app_Club\\ViiMobileApp\\ClubApp\\ClubApp\\ClubApp.csproj",
       "projectName": "ClubApp",
-      "projectPath": "C:\\Users\\User\\source\\repos\\ClubApp\\ClubApp\\ClubApp\\ClubApp.csproj",
+      "projectPath": "E:\\Git_app_Club\\ViiMobileApp\\ClubApp\\ClubApp\\ClubApp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\ClubApp\\ClubApp\\ClubApp\\obj\\",
+      "outputPath": "E:\\Git_app_Club\\ViiMobileApp\\ClubApp\\ClubApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

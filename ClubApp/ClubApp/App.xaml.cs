@@ -29,7 +29,7 @@ namespace ClubApp
             InitializeComponent();
 
             DependencyService.Register<MockDataStore>();
-            MainPage = new LoginPage();
+            MainPage = new AboutPage();
         }
 
         protected override void OnStart()
