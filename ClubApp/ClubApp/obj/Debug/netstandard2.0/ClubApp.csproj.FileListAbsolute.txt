@@ -19,4 +19,3 @@ C:\Users\User\source\repos\ClubApp\ClubApp\ClubApp\obj\Debug\netstandard2.0\Club
 C:\Users\User\source\repos\ClubApp\ClubApp\ClubApp\obj\Debug\netstandard2.0\ClubApp.dll
 C:\Users\User\source\repos\ClubApp\ClubApp\ClubApp\obj\Debug\netstandard2.0\ref\ClubApp.dll
 C:\Users\User\source\repos\ClubApp\ClubApp\ClubApp\obj\Debug\netstandard2.0\ClubApp.pdb
-C:\Users\User\source\repos\ClubApp\ClubApp\ClubApp\obj\Debug\netstandard2.0\ClubApp.csprojAssemblyReference.cache
