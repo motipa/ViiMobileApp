@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/CYuMVmTtlN506BgCBr4/Vfun6BZHrS4LVH+/JJ6NxGDjF5oC5nYwLQJRG+T9XtqmNFJ36L0YjuDhctxVfbBeA==",
+  "dgSpecHash": "Bn7MlP6aLBo0tfupYpGQyiL5XPcfTpN9EHTWAbhJq9X1vSr9PJ3Chg8m6x+WjujfpKYdAOWSaLz2SIzdbxsA0g==",
   "success": true,
-  "projectFilePath": "E:\\Git_app_Club\\ViiMobileApp\\ClubApp\\ClubApp.iOS\\ClubApp.iOS.csproj",
+  "projectFilePath": "C:\\Users\\User\\Git_Clone\\ViiMobileApp\\ClubApp\\ClubApp.iOS\\ClubApp.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\flurl\\2.8.2\\flurl.2.8.2.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Git_app_Club\\ViiMobileApp\\ClubApp\\ClubApp.iOS\\ClubApp.iOS.csproj": {}
+    "C:\\Users\\User\\Git_Clone\\ViiMobileApp\\ClubApp\\ClubApp.iOS\\ClubApp.iOS.csproj": {}
   },
   "projects": {
-    "E:\\Git_app_Club\\ViiMobileApp\\ClubApp\\ClubApp.iOS\\ClubApp.iOS.csproj": {
+    "C:\\Users\\User\\Git_Clone\\ViiMobileApp\\ClubApp\\ClubApp.iOS\\ClubApp.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Git_app_Club\\ViiMobileApp\\ClubApp\\ClubApp.iOS\\ClubApp.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Git_Clone\\ViiMobileApp\\ClubApp\\ClubApp.iOS\\ClubApp.iOS.csproj",
         "projectName": "ClubApp.iOS",
-        "projectPath": "E:\\Git_app_Club\\ViiMobileApp\\ClubApp\\ClubApp.iOS\\ClubApp.iOS.csproj",
+        "projectPath": "C:\\Users\\User\\Git_Clone\\ViiMobileApp\\ClubApp\\ClubApp.iOS\\ClubApp.iOS.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Git_app_Club\\ViiMobileApp\\ClubApp\\ClubApp.iOS\\obj\\",
+        "outputPath": "C:\\Users\\User\\Git_Clone\\ViiMobileApp\\ClubApp\\ClubApp.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "E:\\Git_app_Club\\ViiMobileApp\\ClubApp\\ClubApp\\ClubApp.csproj": {
-                "projectPath": "E:\\Git_app_Club\\ViiMobileApp\\ClubApp\\ClubApp\\ClubApp.csproj"
+              "C:\\Users\\User\\Git_Clone\\ViiMobileApp\\ClubApp\\ClubApp\\ClubApp.csproj": {
+                "projectPath": "C:\\Users\\User\\Git_Clone\\ViiMobileApp\\ClubApp\\ClubApp\\ClubApp.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "E:\\Git_app_Club\\ViiMobileApp\\ClubApp\\ClubApp\\ClubApp.csproj": {
+    "C:\\Users\\User\\Git_Clone\\ViiMobileApp\\ClubApp\\ClubApp\\ClubApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Git_app_Club\\ViiMobileApp\\ClubApp\\ClubApp\\ClubApp.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Git_Clone\\ViiMobileApp\\ClubApp\\ClubApp\\ClubApp.csproj",
         "projectName": "ClubApp",
-        "projectPath": "E:\\Git_app_Club\\ViiMobileApp\\ClubApp\\ClubApp\\ClubApp.csproj",
+        "projectPath": "C:\\Users\\User\\Git_Clone\\ViiMobileApp\\ClubApp\\ClubApp\\ClubApp.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Git_app_Club\\ViiMobileApp\\ClubApp\\ClubApp\\obj\\",
+        "outputPath": "C:\\Users\\User\\Git_Clone\\ViiMobileApp\\ClubApp\\ClubApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
